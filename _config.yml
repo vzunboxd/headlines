@@ -1,0 +1,4 @@
+name: VzUnboxd Headlines
+markdown: kramdown
+pygments: true
+baseurl: /headlines
